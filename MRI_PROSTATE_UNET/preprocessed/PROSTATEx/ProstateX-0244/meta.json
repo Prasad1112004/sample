@@ -1,0 +1,13 @@
+{
+  "dataset": "PROSTATEx",
+  "patient_id": "ProstateX-0244",
+  "original_shape": [
+    320,
+    320
+  ],
+  "target_size": [
+    256,
+    256
+  ],
+  "n_slices_saved": 20
+}

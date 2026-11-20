@@ -1,0 +1,13 @@
+{
+  "dataset": "MSD",
+  "patient_id": "prostate_37",
+  "original_shape": [
+    256,
+    256
+  ],
+  "target_size": [
+    256,
+    256
+  ],
+  "n_slices_saved": 15
+}

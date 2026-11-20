@@ -1,0 +1,13 @@
+{
+  "dataset": "NCI_ISBI_3T",
+  "patient_id": "Prostate3T-03-0002",
+  "original_shape": [
+    384,
+    384
+  ],
+  "target_size": [
+    256,
+    256
+  ],
+  "n_slices_saved": 14
+}

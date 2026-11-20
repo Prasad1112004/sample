@@ -1,0 +1,13 @@
+{
+  "dataset": "I2CVB",
+  "patient_id": "Patient_2950797",
+  "original_shape": [
+    256,
+    256
+  ],
+  "target_size": [
+    256,
+    256
+  ],
+  "n_slices_saved": 15
+}

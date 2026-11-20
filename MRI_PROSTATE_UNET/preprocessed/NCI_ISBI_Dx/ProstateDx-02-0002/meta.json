@@ -1,0 +1,13 @@
+{
+  "dataset": "NCI_ISBI_Dx",
+  "patient_id": "ProstateDx-02-0002",
+  "original_shape": [
+    512,
+    512
+  ],
+  "target_size": [
+    256,
+    256
+  ],
+  "n_slices_saved": 10
+}
